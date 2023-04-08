@@ -1,11 +1,11 @@
-About shippinglabel
-===================
+About shippinglabel-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/shippinglabel-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/domdfcoding/shippinglabel
 
 Package license: MIT AND Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/shippinglabel-feedstock/blob/main/LICENSE.txt)
 
 Summary: Utilities for handling packages.
 
