@@ -1,5 +1,5 @@
 {% set name = "shippinglabel" %}
-{% set version = "1.7.1" %}
+{% set version = "1.7.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/shippinglabel-{{ version }}.tar.gz
-  sha256: cf8d54a1b2b4c5fe22c38944a2fcd3d246f70187dcdb8d5a51f09f21353e04ee
+  sha256: 19611caa64f66fe649b33d5b9e71e9a24dd8595d1f7f54ea1b350c6f2a95d72b
 
 build:
   noarch: python
