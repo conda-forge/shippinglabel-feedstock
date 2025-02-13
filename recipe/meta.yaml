@@ -16,9 +16,10 @@ build:
 
 requirements:
   host:
+    - hatchling
+    - hatch-requirements-txt
     - pip
     - python {{ python_min }}
-    - setuptools >=40.6.0
   run:
     - dist-meta >=0.1.2
     - dom-toml >=0.2.2
